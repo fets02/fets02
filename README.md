@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fets02
+- 👋 Hi, I’m @stefanieuy02
 - 👀 I’m interested in data science!
 - 🌱 I’m currently learning R, Python, and all the fun data science methods!
 
